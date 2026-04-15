@@ -2,6 +2,10 @@
 
 FastAPI backend and ESP8266 sketch for logging voltage readings into a local SQLite database.
 
+## Dashboard
+
+![ESP8266 logger dashboard](docs/dashboard.png)
+
 ## Setup
 
 Create a Python virtual environment and install the backend dependencies:
