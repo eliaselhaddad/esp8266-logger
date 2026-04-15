@@ -1,0 +1,19 @@
+reference/esp8266_secrets.h
+
+# Local Python environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Runtime database created by the app
+readings.db
+*.db
+
+# Local editor/system files
+.DS_Store
+.vscode/
+.idea/
+.codex
